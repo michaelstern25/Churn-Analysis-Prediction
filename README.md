@@ -1,5 +1,5 @@
 # 📊 Telecom Customer Churn Analysis & Prediction.
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on analyzing telecom customer churn using:
 
@@ -11,7 +11,7 @@ This project focuses on analyzing telecom customer churn using:
 
 The goal of this project is to understand customer behavior, identify churn patterns, and build predictive models to help telecom companies reduce customer loss.
 
-🚀 Project Objectives
+# 🚀 Project Objectives
 
 Business Goals
 
@@ -25,13 +25,18 @@ Business Goals
 
 • Create interactive Power BI dashboards for business insights
 
-📂 Project Files
+# 📂 Project Files
 • Customer Churn SQL Analysis.sql
+
 • Telecom Churn Prediction.ipynb
+
 • Churn Analysis.pbix
+
 • Churn Analysis Dashboard
 
-👨‍💻 Author
+# 👨‍💻 Author
+
 Arman Khan
+
 Aspiring Data Analyst | Power BI | SQL | Machine Learning
 
