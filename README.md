@@ -40,3 +40,6 @@ Arman Khan
 
 Aspiring Data Analyst | Power BI | SQL | Machine Learning
 
+# 📊 Dashboard Preview
+
+![Dashboard Preview]()
