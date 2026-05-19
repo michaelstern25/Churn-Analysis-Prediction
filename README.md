@@ -42,4 +42,4 @@ Aspiring Data Analyst | Power BI | SQL | Machine Learning
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/michaelstern25/Churn-Analysis-Prediction/blob/main/Churn%20Analysis%20Dashboard.jpeg)
